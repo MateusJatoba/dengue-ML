@@ -1,0 +1,98 @@
+==============================================================================
+RELATÓRIO DE VALIDAÇÃO - dengue, 2015 a 2026
+==============================================================================
+
+1. Linhas e período por cidade
+                      linhas primeira_semana ultima_semana  se_inicial  se_final
+cidade                                                                          
+Alagoinhas               613      2015-01-04    2026-09-27      201501    202639
+Barreiras                613      2015-01-04    2026-09-27      201501    202639
+Camaçari                 613      2015-01-04    2026-09-27      201501    202639
+Eunápolis                613      2015-01-04    2026-09-27      201501    202639
+Feira de Santana         613      2015-01-04    2026-09-27      201501    202639
+Ilhéus                   613      2015-01-04    2026-09-27      201501    202639
+Itabuna                  613      2015-01-04    2026-09-27      201501    202639
+Jequié                   613      2015-01-04    2026-09-27      201501    202639
+Juazeiro                 613      2015-01-04    2026-09-27      201501    202639
+Lauro de Freitas         613      2015-01-04    2026-09-27      201501    202639
+Paulo Afonso             613      2015-01-04    2026-09-27      201501    202639
+Porto Seguro             613      2015-01-04    2026-09-27      201501    202639
+Salvador                 613      2015-01-04    2026-09-27      201501    202639
+Teixeira de Freitas      613      2015-01-04    2026-09-27      201501    202639
+Vitória da Conquista     613      2015-01-04    2026-09-27      201501    202639
+
+2. Semanas faltantes ou duplicadas por cidade
+                      semanas_faltantes  linhas_duplicadas
+Alagoinhas                            0                  0
+Barreiras                             0                  0
+Camaçari                              0                  0
+Eunápolis                             0                  0
+Feira de Santana                      0                  0
+Ilhéus                                0                  0
+Itabuna                               0                  0
+Jequié                                0                  0
+Juazeiro                              0                  0
+Lauro de Freitas                      0                  0
+Paulo Afonso                          0                  0
+Porto Seguro                          0                  0
+Salvador                              0                  0
+Teixeira de Freitas                   0                  0
+Vitória da Conquista                  0                  0
+
+3. Percentual de valores ausentes por coluna
+geocode               0.00
+cidade                0.00
+uf                    0.00
+data_iniSE            0.00
+SE                    0.00
+casos_est             0.00
+casos_est_min         0.00
+casos_est_max         0.00
+casos                 0.00
+p_rt1                 0.00
+p_inc100k             0.00
+Localidade_id         0.00
+nivel                 0.00
+id                    0.00
+versao_modelo         0.00
+municipio_nome        0.00
+Rt                    0.00
+pop                   0.00
+tempmin               0.22
+umidmax               2.14
+receptivo             0.00
+transmissao           0.00
+nivel_inc             0.00
+umidmed               4.92
+umidmin               4.46
+tempmed               4.92
+tempmax               4.92
+casprov               0.00
+casprov_est         100.00
+casprov_est_min     100.00
+casprov_est_max     100.00
+casconf             100.00
+notif_accum_year      0.00
+
+4. Total de casos e semanas com zero caso (coluna 'casos')
+                      total_casos  pct_semanas_zero_caso
+cidade                                                  
+Alagoinhas                   7516                  28.22
+Barreiras                   17464                   8.16
+Camaçari                    10917                  13.70
+Eunápolis                    9656                  20.07
+Feira de Santana            62758                   0.16
+Ilhéus                      23891                   7.83
+Itabuna                     47327                   2.12
+Jequié                      10884                  11.75
+Juazeiro                     9350                   6.04
+Lauro de Freitas             3145                  30.34
+Paulo Afonso                 4927                  40.46
+Porto Seguro                17220                   7.34
+Salvador                    92194                   0.16
+Teixeira de Freitas         19484                   2.28
+Vitória da Conquista        68511                   4.89
+
+5. Cidades que falharam no download
+   Nenhuma.
+==============================================================================
